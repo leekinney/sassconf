@@ -1,4 +1,4 @@
-# sassconf
+# Unintentional Exclusion - Web accessibility and how we’re failing our users
 
 Web accessibility is usually thought of as something that is hard to do or expensive to work into a project. It is also thought of as something that is only beneficial to users with severe or noticeable disabilities. Many times accessible designs are a result of good UX practices and can benefit all users. Creating accessible websites can help our aging populations navigate the web easier as well as someone with low literacy or a learning disability.
 
